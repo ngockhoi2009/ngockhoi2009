@@ -6,7 +6,7 @@ I'm a high school student in Da Nang, Vietnam, with a strong interest in Physics
 
 My learning journey combines analytical problem-solving with hands-on engineering projects. I'm particularly interested in how software, electronics, and artificial intelligence can work together in practical systems.
 
-## 🔬 Featured Projects
+## Featured Projects
 
 ### AI Smart Trash Bin
 An ESP32-based project exploring the integration of sensors, a camera, AI-powered image classification, and servo motors to sort waste.
@@ -26,14 +26,14 @@ A collection of C++ exercises documenting my programming practice and developmen
 
 [Explore my C++ repository](https://github.com/ngockhoi2009/CppLearning)
 
-## 📚 Academic Interests
+## Academic Interests
 
 - Physics and mathematical problem-solving
 - Programming and algorithms
 - Embedded systems and electronics
 - Artificial intelligence and computer vision
 
-## 🛠️ Technologies
+## Technologies
 
 `C++` `JavaScript` `Node.js` `ESP32` `Git`
 
