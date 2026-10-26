@@ -37,7 +37,7 @@ A collection of C++ exercises documenting my programming practice and developmen
 
 `C++` `JavaScript` `Node.js` `ESP32` `Git`
 
-## 🎯 Current Direction
+## Current Direction
 
 I aim to deepen my understanding of engineering and explore how intelligent systems can be applied to real-world challenges.
 
