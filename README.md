@@ -16,7 +16,7 @@ An ESP32-based project exploring the integration of sensors, a camera, AI-powere
 - **AI:** Gemini API
 - **Focus:** Connecting AI software with a physical system
 
-[View project repository](#)
+[View project repository](https://github.com/ngockhoi2009/CppLearning)
 
 ### C++ Problem Solving
 A collection of C++ exercises documenting my programming practice and development of algorithmic thinking.
