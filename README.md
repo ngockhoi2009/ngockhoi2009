@@ -2,44 +2,56 @@
 
 ### Physics Student | Programming | Applied AI
 
-I'm a high school student in Da Nang, Vietnam, with a strong interest in Physics, programming, and applying technology to real-world problems.
+I'm a Grade 12 student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, with interests in Physics, programming, and applying technology to real-world problems.
 
-My learning journey combines analytical problem-solving with hands-on engineering projects. I'm particularly interested in how software, electronics, and artificial intelligence can work together in practical systems.
+Through independent learning and hands-on projects, I explore how software, electronics, and artificial intelligence can work together to build practical systems. I'm particularly interested in **Industrial AI, computer vision, and embedded systems**.
 
 ## Featured Projects
 
-### AI Smart Trash Bin
-An ESP32-based project exploring the integration of sensors, a camera, AI-powered image classification, and servo motors to sort waste.
+### 1. AI Smart Trash Bin
 
-- **Hardware:** ESP32, ultrasonic sensor, servo motors
-- **Software:** C++, JavaScript, Node.js
+An ESP32-based project integrating ultrasonic sensing, image classification, and servo motors to explore AI-assisted waste sorting.
+
+- **Hardware:** ESP32, HC-SR04 ultrasonic sensor, SG90 servo motors
+- **Software:** C++, JavaScript, Node.js, Express
 - **AI:** Gemini API
-- **Focus:** Connecting AI software with a physical system
+- **Focus:** Integrating AI-based image classification with a physical system
 
-[View project repository](https://github.com/ngockhoi2009/AI-Smart-Trash-Bin)
+[View Repository](https://github.com/ngockhoi2009/AI-Smart-Trash-Bin)
 
-### C++ Problem Solving
-A collection of C++ exercises documenting my programming practice and development of algorithmic thinking.
+### 2. C++ Problem Solving
+
+A collection of C++ exercises organized by topic, documenting my independent learning and practice in programming.
 
 - **Language:** C++
-- **Focus:** Problem solving and programming fundamentals
+- **Focus:** Programming fundamentals, algorithms, and problem-solving
 
-[Explore my C++ repository](https://github.com/ngockhoi2009/CppLearning)
+[View Repository](https://github.com/ngockhoi2009/CppLearning)
+
+### 3. Community Service
+
+A collection documenting my participation in community service and charitable activities through fundraising, volunteer work, and community visits.
+
+- **Focus:** Community involvement and teamwork
+- **Documentation:** Project descriptions, activity photos, and available certificates
+
+[View Repository](https://github.com/ngockhoi2009/Community-Service)
 
 ## Academic Interests
 
 - Physics and mathematical problem-solving
-- Programming and algorithms
+- Algorithms and programming
 - Embedded systems and electronics
-- Artificial intelligence and computer vision
+- Industrial AI and computer vision
+- Intelligent systems for real-world applications
 
-## Technologies
+## Technologies & Tools
 
-`C++` `JavaScript` `Node.js` `ESP32` `Git`
+`C++` `JavaScript` `Node.js` `Express` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
 
 ## Current Direction
 
-I aim to deepen my understanding of engineering and explore how intelligent systems can be applied to real-world challenges.
+I aim to strengthen my foundations in engineering and programming while exploring how AI, computer vision, and embedded systems can be combined to solve practical industrial problems.
 
 ---
 
