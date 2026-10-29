@@ -1,6 +1,6 @@
 # Hi, I'm Khoi 👋
 
-### Physics Student | Programming | Applied AI
+### Physics Student | Programming | Industrial AI | Computer Vision | Embedded Systems
 
 I'm a Grade 12 student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, with interests in Physics, programming, and applying technology to real-world problems.
 
