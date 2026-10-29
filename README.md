@@ -13,7 +13,7 @@ Through independent learning and hands-on projects, I explore how software, elec
 An ESP32-based project integrating ultrasonic sensing, image classification, and servo motors to explore AI-assisted waste sorting.
 
 - **Hardware:** ESP32, HC-SR04 ultrasonic sensor, SG90 servo motors
-- **Software:** C++, JavaScript, Node.js, Express
+- **Software:** C++, JavaScript, Node.js, HTML
 - **AI:** Gemini API
 - **Focus:** Integrating AI-based image classification with a physical system
 
@@ -47,7 +47,7 @@ A collection documenting my participation in community service and charitable ac
 
 ## Technologies & Tools
 
-`C++` `JavaScript` `Node.js` `Express` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
+`C++` `JavaScript` `Node.js` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
 
 ## Current Direction
 
