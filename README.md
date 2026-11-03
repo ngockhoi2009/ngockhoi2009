@@ -8,7 +8,18 @@ Through independent learning and hands-on projects, I explore how software, elec
 
 ## Featured Projects
 
-### 1. AI Smart Trash Bin
+### 1. Metal Nut Anomaly Detection
+
+A PatchCore-based computer vision project for detecting defective metal nuts through image-based anomaly detection and visualization.
+
+- **Model:** PatchCore with a pretrained CNN backbone
+- **Software:** C++, Python, OpenCV, ONNX Runtime
+- **Dataset:** MVTec AD – Metal Nut
+- **Focus:** Applying deep learning-based feature extraction and nearest-neighbor comparison to visual defect inspection
+
+[View Repository](https://github.com/ngockhoi2009/Metal-Nut-Anomaly-Detection)
+
+### 2. AI Smart Trash Bin
 
 An ESP32-based project integrating ultrasonic sensing, image classification, and servo motors to explore AI-assisted waste sorting.
 
@@ -19,7 +30,7 @@ An ESP32-based project integrating ultrasonic sensing, image classification, and
 
 [View Repository](https://github.com/ngockhoi2009/AI-Smart-Trash-Bin)
 
-### 2. C++ Problem Solving
+### 3. C++ Problem Solving
 
 A collection of C++ exercises organized by topic, documenting my independent learning and practice in programming.
 
@@ -28,7 +39,7 @@ A collection of C++ exercises organized by topic, documenting my independent lea
 
 [View Repository](https://github.com/ngockhoi2009/CppLearning)
 
-### 3. Community Service
+### 4. Community Service
 
 A collection documenting my participation in community service and charitable activities through fundraising, volunteer work, and community visits.
 
