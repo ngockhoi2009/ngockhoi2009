@@ -58,7 +58,7 @@ A collection documenting my participation in community service and charitable ac
 
 ## Technologies & Tools
 
-`C++` `JavaScript` `Node.js` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
+`C++` `Python` `JavaScript` `Node.js` `OpenCV` `ONNX Runtime` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
 
 ## Current Direction
 
