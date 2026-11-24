@@ -34,11 +34,20 @@ My academic background in Physics has shaped my interest in understanding how th
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**AI & Technologies**
+**AI, Machine Learning & Computer Vision**
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
-![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![PatchCore](https://img.shields.io/badge/PatchCore-6A5ACD?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-0078D4?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-8A2BE2?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+**Development & Engineering**
+
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### Beyond Academics
 
