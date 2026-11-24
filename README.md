@@ -1,69 +1,43 @@
 # Hi, I'm Khoi 👋
 
-### Physics Student | Programming | Industrial AI | Computer Vision | Embedded Systems
+### Engineering Student | Physics | Programming | Industrial AI and Computer Vision
 
-I'm a Grade 12 student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, with interests in Physics, programming, and applying technology to real-world problems.
+I'm a Grade 12 student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, with a strong interest in engineering, programming, and the application of artificial intelligence to real-world systems.
 
-Through independent learning and hands-on projects, I explore how software, electronics, and artificial intelligence can work together to build practical systems. I'm particularly interested in **Industrial AI, computer vision, and embedded systems**.
+My academic background in Physics has shaped my interest in understanding how things work, while independent programming and hands-on experimentation have allowed me to explore the intersection of software, electronics, and intelligent technologies.
 
-## Featured Projects
+### Areas of Interest
 
-### 1. Metal Nut Anomaly Detection
+- **Industrial AI & Computer Vision** — Exploring AI-driven visual inspection, anomaly detection, and intelligent manufacturing systems.
+- **Embedded Systems & Electronics** — Understanding the integration of software, hardware, and physical systems.
+- **Programming & Algorithms** — Developing problem-solving skills and building a strong foundation in software development.
+- **Physics & Engineering** — Applying mathematical and scientific principles to practical engineering challenges.
 
-A PatchCore-based computer vision project for detecting defective metal nuts through image-based anomaly detection and visualization.
+### Technical Skills & Tools
 
-- **Model:** PatchCore with a pretrained CNN backbone
-- **Software:** C++, Python, OpenCV, ONNX Runtime
-- **Dataset:** MVTec AD – Metal Nut
-- **Focus:** Applying deep learning-based feature extraction and nearest-neighbor comparison to visual defect inspection
+**Programming Languages**
 
-[View Repository](https://github.com/ngockhoi2009/Metal-Nut-Anomaly-Detection)
+`C++` `Python` `JavaScript`
 
-### 2. AI Smart Trash Bin
+**Libraries & Frameworks**
 
-An ESP32-based project integrating ultrasonic sensing, image classification, and servo motors to explore AI-assisted waste sorting.
+`OpenCV` `ONNX Runtime` `Node.js`
 
-- **Hardware:** ESP32, HC-SR04 ultrasonic sensor, SG90 servo motors
-- **Software:** C++, JavaScript, Node.js, HTML
-- **AI:** Gemini API
-- **Focus:** Integrating AI-based image classification with a physical system
+**Hardware & Development Tools**
 
-[View Repository](https://github.com/ngockhoi2009/AI-Smart-Trash-Bin)
+`ESP32` `Arduino IDE` `Git` `GitHub`
 
-### 3. C++ Problem Solving
+**AI & Technologies**
 
-A collection of C++ exercises organized by topic, documenting my independent learning and practice in programming.
+`Computer Vision` `Deep Learning` `Gemini API`
 
-- **Language:** C++
-- **Focus:** Programming fundamentals, algorithms, and problem-solving
+### Beyond Academics
 
-[View Repository](https://github.com/ngockhoi2009/CppLearning)
+Outside of technical learning, I enjoy Physics, mathematics, chess, playing the guitar and exploring new technologies. I also value teamwork and community involvement through volunteering and charitable activities.
 
-### 4. Community Service
+### Current Direction
 
-A collection documenting my participation in community service and charitable activities through fundraising, volunteer work, and community visits.
+I am focused on strengthening my foundations in computer science and engineering, with a long-term goal of exploring **Industrial AI and Computer Vision**
 
-- **Focus:** Community involvement and teamwork
-- **Documentation:** Project descriptions, activity photos, and available certificates
+I believe in learning by building, experimenting, and understanding the principles behind the technology.
 
-[View Repository](https://github.com/ngockhoi2009/Community-Service)
-
-## Academic Interests
-
-- Physics and mathematical problem-solving
-- Algorithms and programming
-- Embedded systems and electronics
-- Industrial AI and computer vision
-- Intelligent systems for real-world applications
-
-## Technologies & Tools
-
-`C++` `Python` `JavaScript` `Node.js` `OpenCV` `ONNX Runtime` `ESP32` `Arduino IDE` `Git` `GitHub` `Gemini API`
-
-## Current Direction
-
-I aim to strengthen my foundations in engineering and programming while exploring how AI, computer vision, and embedded systems can be combined to solve practical industrial problems.
-
----
-
-*Learning through experimentation, problem-solving, and building.*
