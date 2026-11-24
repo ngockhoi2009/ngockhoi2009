@@ -1,17 +1,25 @@
 # Hi, I'm Khoi 👋
 
-### Engineering Student | Physics | Programming | Industrial AI and Computer Vision
+### Grade 12 Student | Physics | Programming | Industrial AI & Computer Vision
 
-I'm a Grade 12 student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, with a strong interest in engineering, programming, and the application of artificial intelligence to real-world systems.
+I'm a Physics student at Le Quy Don High School for the Gifted in Da Nang, Vietnam, interested in engineering and building intelligent systems through programming and hands-on experimentation.
 
-My academic background in Physics has shaped my interest in understanding how things work, while independent programming and hands-on experimentation have allowed me to explore the intersection of software, electronics, and intelligent technologies.
+My interests lie at the intersection of **Artificial Intelligence, Computer Vision, and Embedded Systems**, with a particular focus on applying these technologies to real-world engineering challenges.
 
 ### Areas of Interest
 
-- **Industrial AI & Computer Vision** — Exploring AI-driven visual inspection, anomaly detection, and intelligent manufacturing systems.
-- **Embedded Systems & Electronics** — Understanding the integration of software, hardware, and physical systems.
-- **Programming & Algorithms** — Developing problem-solving skills and building a strong foundation in software development.
-- **Physics & Engineering** — Applying mathematical and scientific principles to practical engineering challenges.
+- **Industrial AI & Computer Vision** — Visual inspection, anomaly detection, and intelligent manufacturing.
+- **Embedded Systems & Electronics** — Hardware-software integration and intelligent devices.
+- **Programming & Algorithms** — C++, software development, and computational problem-solving.
+- **Physics & Engineering** — Applying scientific and mathematical principles to engineering.
+
+Industrial AI & Computer Vision — Visual inspection, anomaly detection, and intelligent manufacturing.
+
+Embedded Systems & Electronics — Hardware-software integration and intelligent devices.
+
+Programming & Algorithms — C++, software development, and computational problem-solving.
+
+Physics & Engineering — Applying scientific and mathematical principles to engineering.
 
 ### Technical Skills & Tools
 
@@ -44,7 +52,7 @@ My academic background in Physics has shaped my interest in understanding how th
 
 ### Beyond Academics
 
-Outside of technical learning, I enjoy Physics, mathematics, chess, playing the guitar and exploring new technologies. I also value teamwork and community involvement through volunteering and charitable activities.
+Outside of academic and technical learning, I enjoy playing chess, playing the guitar, hitting the gym, and tinkering with new tech. I also value teamwork and community involvement through volunteering and charitable activities
 
 ### Current Direction
 
