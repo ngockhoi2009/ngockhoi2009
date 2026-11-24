@@ -13,14 +13,6 @@ My interests lie at the intersection of **Artificial Intelligence, Computer Visi
 - **Programming & Algorithms** — C++, software development, and computational problem-solving.
 - **Physics & Engineering** — Applying scientific and mathematical principles to engineering.
 
-Industrial AI & Computer Vision — Visual inspection, anomaly detection, and intelligent manufacturing.
-
-Embedded Systems & Electronics — Hardware-software integration and intelligent devices.
-
-Programming & Algorithms — C++, software development, and computational problem-solving.
-
-Physics & Engineering — Applying scientific and mathematical principles to engineering.
-
 ### Technical Skills & Tools
 
 **Core Foundations**
