@@ -36,8 +36,9 @@ My academic background in Physics has shaped my interest in understanding how th
 
 **AI & Technologies**
 
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-6A5ACD?style=for-the-badge&logo=opencv&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ### Beyond Academics
 
